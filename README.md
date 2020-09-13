@@ -1,1 +1,1 @@
-# wc.exe
+ZZT
